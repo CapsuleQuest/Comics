@@ -1,0 +1,65 @@
+{
+  "title": "War For Rayuba: Rho - The Cursed Treasure Hunter",
+  "description": "When Rho speaks, his words become tangible and fall to the ground. He joins the war, carrying the book that cursed him, hoping to find a cure. Created by ",
+  "artist": "^",
+  "author": "@capsule_quest on Twitter",
+  "cover": "https://i.imgur.com/0sOQ8kq.png",
+  "chapters": {
+    "01": {
+      "title": "INTRO - THE CURSED TREASURE HUNTER",
+      "volume": "2",
+      "groups": {
+        "Imgur": "/proxy/api/imgur/chapter/yfqR9EW/"
+      },
+      "last_updated": "1625932800"
+    },
+     "02": {
+      "title": "ROUND 6 - RHO VS. AMOR",
+      "volume": "1",
+      "groups": {
+        "Imgur": "/proxy/api/imgur/chapter/AjGFMPI/"
+      },
+      "last_updated": "1626710400"
+    },
+     "03": {
+      "title": "ROUND 7 - A QUICK REST",
+      "volume": "1",
+      "groups": {
+        "Imgur": "/proxy/api/imgur/chapter/OHqTCZK/"
+      },
+      "last_updated": "1629348085"
+    },
+     "04": {
+      "title": "ROUND 8 - RHO VS. BRICKMANCER",
+      "volume": "1",
+      "groups": {
+        "Imgur": "/proxy/api/imgur/chapter/sfhUMBQ/"
+      },
+      "last_updated": "1632153325"
+    },
+     "05": {
+      "title": "ROUND 8.5 - REBUILDING",
+      "volume": "1",
+      "groups": {
+        "Imgur": "/proxy/api/imgur/chapter/ksXBGT4/"
+      },
+      "last_updated": "1634524985"
+    },
+     "06": {
+      "title": "ROUND 9 - RHO & THE HOST VS. TATTERS & ELSA BEE",
+      "volume": "1",
+      "groups": {
+        "Imgur": "/proxy/api/imgur/chapter/rCg1nWk/"
+      },
+      "last_updated": "1637125200"
+    },
+     "07": {
+      "title": "EPILOGUE - ONE FINAL STATEMENT",
+      "volume": "1",
+      "groups": {
+        "Imgur": "/proxy/api/imgur/chapter/i2cnwiG/"
+      },
+      "last_updated": "1639123386"
+    }
+  }
+}
