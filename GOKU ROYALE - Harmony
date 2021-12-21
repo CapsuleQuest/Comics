@@ -1,1 +1,33 @@
-
+{
+  "title": "Harmony",
+  "description": "After humanity was wiped out, Dr.Spark created harmony and eight otherconstruction master biodroids to help rebuildsociety. Harmony's brothers were extremely lazy and took too many breaks during construction, so she killed them and took their abilities to speed things along. ",
+  "artist": "^",
+  "author": "@capsule_quest on Twitter",
+  "cover": "https://i.imgur.com/Lcsacew.png",
+  "chapters": {
+    "01": {
+      "title": "INTRO",
+      "volume": "2",
+      "groups": {
+        "Imgur": "/proxy/api/imgur/chapter/6rnU6Pn/"
+      },
+      "last_updated": "1625932800"
+    },
+     "02": {
+      "title": "ROUND 1 - HARMONY VS. CAPTAIN PRO-PAIN",
+      "volume": "1",
+      "groups": {
+        "Imgur": "/proxy/api/imgur/chapter/2WCT0hU/"
+      },
+      "last_updated": "1626710400"
+    },
+     "03": {
+      "title": "ROUND 2 - HARMONY VS. MR. F.",
+      "volume": "1",
+      "groups": {
+        "Imgur": "/proxy/api/imgur/chapter/85UADJK/"
+      },
+      "last_updated": "1629348085"
+    }
+  }
+}
