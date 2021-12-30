@@ -36,6 +36,14 @@
         "Imgur": "/proxy/api/imgur/chapter/85UADJK/"
       },
       "last_updated": "1629348085"
+    },
+     "05": {
+      "title": "INTERMISSION",
+      "volume": "2",
+      "groups": {
+        "Imgur": "/proxy/api/imgur/chapter/3FfCVYP/"
+      },
+      "last_updated": "1640881823"
     }
   }
 }
