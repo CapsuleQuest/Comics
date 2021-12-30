@@ -5,7 +5,7 @@
   "author": "@capsule_quest on Twitter",
   "cover": "https://i.imgur.com/Lcsacew.png",
   "chapters": {
-    "00": {
+    "01": {
       "title": "CHARACTER SHEET",
       "volume": "1",
       "groups": {
@@ -13,7 +13,7 @@
       },
       "last_updated": "1625932800"
     },
-    "01": {
+    "02": {
       "title": "INTRO",
       "volume": "1",
       "groups": {
@@ -21,7 +21,7 @@
       },
       "last_updated": "1625932800"
     },
-     "02": {
+     "03": {
       "title": "ROUND 1 - HARMONY VS. CAPTAIN PRO-PAIN",
       "volume": "1",
       "groups": {
@@ -29,7 +29,7 @@
       },
       "last_updated": "1626710400"
     },
-     "03": {
+     "04": {
       "title": "ROUND 2 - HARMONY VS. MR. F.",
       "volume": "1",
       "groups": {
