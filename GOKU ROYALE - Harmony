@@ -5,9 +5,17 @@
   "author": "@capsule_quest on Twitter",
   "cover": "https://i.imgur.com/Lcsacew.png",
   "chapters": {
+    "00": {
+      "title": "CHARACTER SHEET",
+      "volume": "1",
+      "groups": {
+        "Imgur": "/proxy/api/imgur/chapter/IjNuiyG/"
+      },
+      "last_updated": "1625932800"
+    },
     "01": {
       "title": "INTRO",
-      "volume": "2",
+      "volume": "1",
       "groups": {
         "Imgur": "/proxy/api/imgur/chapter/6rnU6Pn/"
       },
