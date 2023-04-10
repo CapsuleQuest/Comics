@@ -1,0 +1,57 @@
+{
+  "title": "GOKU 2 - Chefanie",
+  "description": "After humanity was wiped out, Dr.Spark created Harmony and eight other construction master biodroids to help rebuild society. Harmony's brothers were extremely lazy and took too many breaks during construction, so she killed them and took their abilities to speed things along.",
+  "artist": "^",
+  "author": "@CapsuleComics on Twitter",
+  "cover": "https://imgur.com/lwoy5HL.png",
+  "chapters": {
+    "01": {
+      "title": "CHARACTER SHEET",
+      "volume": "1",
+      "groups": {
+        "Imgur": "/proxy/api/imgur/chapter/lwoy5HL/"
+      },
+      "last_updated": "1625932800"
+    },
+    "02": {
+      "title": "INTRO",
+      "volume": "1",
+      "groups": {
+        "Imgur": "/proxy/api/imgur/chapter/6rnU6Pn/"
+      },
+      "last_updated": "1625932800"
+    },
+     "03": {
+      "title": "ROUND 1 - CHEFANIE VS. FERN",
+      "volume": "2",
+      "groups": {
+        "Imgur": "/proxy/api/imgur/chapter/O3MPOdC/"
+      },
+      "last_updated": "1626710400"
+    },
+     "04": {
+      "title": "ROUND 2 - CHEFANIE VS. SIGFIELD",
+      "volume": "2",
+      "groups": {
+        "Imgur": "/proxy/api/imgur/chapter/SnIkFGi/"
+      },
+      "last_updated": "1629348085"
+    },
+     "05": {
+      "title": "ROUND 3 - CHEFANIE VS. TOLLI",
+      "volume": "2",
+      "groups": {
+        "Imgur": "/proxy/api/imgur/chapter/IZMoLzg/"
+      },
+      "last_updated": "1640881823"
+    },
+     "06": {
+      "title": "ROUND 4 - CHEFANIE VS. ELLOEL VS. QUADFIST VS. PLAYERUNKNOWN",
+      "volume": "2",
+      "groups": {
+        "Imgur": "/proxy/api/imgur/chapter/LwCoE6q/"
+      },
+      "last_updated": "1640881823"
+    }
+  }
+}
